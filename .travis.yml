@@ -1,3 +1,4 @@
+# Moved to travis-ci.com from travis-ci.org
 language: ruby
 rvm:
 - 2.0.0
